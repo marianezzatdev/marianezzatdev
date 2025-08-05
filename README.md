@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=marianezzatdev&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI3MnZsOG9lc3hhb3d5bGQ1eTFlNWV1b3ZndTZxdmN5ZmlxOTI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding Gif" align="right" width="200" height="auto"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI3MnZsOG9lc3hhb3d5bGQ1eTFlNWV1b3ZndTZxdmN5ZmlxOTI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding Gif" align="right" width="400" height="auto"/>
 
 
 - 👩‍💻 I'm a self-taught web developer with a certified **Professional Full Stack Diploma – Web Development** (141 hours).
