@@ -21,15 +21,13 @@
 ---
 
 #### 👩🏻‍💻 Languages and Tools <br />
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png"></code>
 
 ---
 
