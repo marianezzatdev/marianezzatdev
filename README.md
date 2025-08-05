@@ -1,16 +1,38 @@
-## Hi there 👋
+# 💻 My Web Development Projects
 
-<!--
-**marianezzatdev/marianezzatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my web development space! Here you'll find a collection of websites and web apps that I've built or contributed to. Each project showcases different skills in front-end, back-end, and responsive design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🌐 Project Name 1
+**Tech Stack**: HTML, CSS, JavaScript  
+**Description**: Short and clear explanation of what this project does and why it matters.  
+**Live Demo**: [🔗 View Project](#)  
+**Code**: [📂 GitHub Repo](#)
+
+---
+
+### 💼 Project Name 2
+**Tech Stack**: React, Bootstrap  
+**Description**: A web application that does X using Y.  
+**Live Demo**: [🔗 View Site](#)  
+**Code**: [📂 GitHub Repo](#)
+
+---
+
+## 🧰 Tools & Skills
+
+- HTML5 / CSS3 / Bootstrap
+- JavaScript / React / jQuery
+- Git / GitHub / VS Code
+- Responsive Design & Debugging
+- API Integration
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: [linkedin.com/in/yourname](#)
+- Email: *Available on request*
