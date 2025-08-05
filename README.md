@@ -37,4 +37,9 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
