@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=marianezzatdev&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="#"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI3MnZsOG9lc3hhb3d5bGQ1eTFlNWV1b3ZndTZxdmN5ZmlxOTI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding Gif" align="right" width="150" height="auto"/>
+
 
 - 👩‍💻 I'm a self-taught web developer with a certified **Professional Full Stack Diploma – Web Development** (141 hours).
 - 🌱 Currently improving my skills in responsive design, GitHub workflows, and real-world project building.
