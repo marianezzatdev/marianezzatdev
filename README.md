@@ -27,9 +27,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ---
 
