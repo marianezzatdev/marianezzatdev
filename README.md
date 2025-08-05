@@ -1,11 +1,11 @@
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-![](https://komarev.com/ghpvc/?username=MarianEzzat&label=Profile%20Visits&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=marianezzatdev&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="#"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 👩‍💻 I'm a self-taught web developer with a certified diploma in Web Development (141 hours).
+- 👩‍💻 I'm a self-taught web developer with a certified **Professional Full Stack Diploma – Web Development** (141 hours).
 - 🌱 Currently improving my skills in responsive design, GitHub workflows, and real-world project building.
 - 🚀 Working on practical web projects to build a solid portfolio.
 - 💬 Ask me about web design, Bootstrap, HTML/CSS, and my journey into tech.
@@ -15,13 +15,9 @@
 
 #### 📫 How to reach me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/marianne-ezzat-79bb43241
-
-)  
-<!-- يمكنك إضافة روابط أخرى لاحقًا -->
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/marianne-ezzat-79bb43241/)
 
 ---
-
 
 #### 👩🏻‍💻 Languages and Tools <br />
 
@@ -33,11 +29,9 @@
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
+
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)
 [![Marian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianezzatdev&show_icons=true&theme=radical)](https://github.com/marianezzatdev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marianezzatdev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/marianezzatdev)
