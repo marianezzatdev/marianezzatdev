@@ -38,8 +38,8 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=MarianEzzat&show_icons=true&theme=radical)
+[![Marian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianezzatdev&show_icons=true&theme=radical)](https://github.com/marianezzatdev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=marianezzatdev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/marianezzatdev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=MarianEzzat&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
