@@ -6,6 +6,7 @@
 
 
 - 👩‍💻 I'm a self-taught web developer with a certified **Professional Full Stack Diploma – Web Development** (141 hours).
+- 🧩 I also studied WordPress through an online course and learned how to build and manage websites with it.
 - 🌱 Currently improving my skills in responsive design, GitHub workflows, and real-world project building.
 - 🚀 Working on practical web projects to build a solid portfolio.
 - 💬 Ask me about web design, Bootstrap, HTML/CSS, and my journey into tech.
@@ -29,6 +30,7 @@
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" alt="WordPress"></code>
 
 ---
 
